@@ -4,3 +4,6 @@ build
 deploy
 windows 
 linux
+mother
+father
+sissy
