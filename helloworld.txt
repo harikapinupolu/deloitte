@@ -1,0 +1,6 @@
+code
+scm
+build
+deploy
+windows 
+linux
