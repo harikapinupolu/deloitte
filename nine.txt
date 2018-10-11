@@ -7,3 +7,6 @@ gf
 bf
 
 mom
+dad
+pa
+ma
